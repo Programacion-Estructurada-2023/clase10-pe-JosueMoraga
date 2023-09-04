@@ -1,0 +1,14 @@
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\bin\Debug\net7.0\clase10-pe-JosueMoraga.exe
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\bin\Debug\net7.0\clase10-pe-JosueMoraga.deps.json
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\bin\Debug\net7.0\clase10-pe-JosueMoraga.runtimeconfig.json
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\bin\Debug\net7.0\clase10-pe-JosueMoraga.dll
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\bin\Debug\net7.0\clase10-pe-JosueMoraga.pdb
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.GeneratedMSBuildEditorConfig.editorconfig
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.AssemblyInfoInputs.cache
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.AssemblyInfo.cs
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.csproj.CoreCompileInputs.cache
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.dll
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\refint\clase10-pe-JosueMoraga.dll
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.pdb
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\clase10-pe-JosueMoraga.genruntimeconfig.cache
+F:\UNIVO\Univo\Desarrollo de lógica de programación\Clase 10\clase10-pe-JosueMoraga\obj\Debug\net7.0\ref\clase10-pe-JosueMoraga.dll
